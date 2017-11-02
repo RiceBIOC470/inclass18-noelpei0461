@@ -58,8 +58,4 @@ b=randi(10,[1,1000]);
 [is_seg,pval]=ttest2(a,b);
 %is_seg=1, pval=4.05e-5
 %is_seg=1, pval=0.0014
-%is_seg=1, pval=5.29e-7
-%Increased total number of numbers in the two sets will increase the
-%relationship between the two sets.
-%When the number becomes 1000, it is hardly to see is-seg=0. The p value also 
-%decreases as the total number increases.
+%Increased total number of numbers in the two sets will sometime make them , instead, the 
