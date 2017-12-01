@@ -1,4 +1,9 @@
 % In class 18
+%GB comments
+1.60 functions do not work and/or not provided in the repository making it impossible to grade. 
+2.100
+overall: 80
+
 
 % Problem 1. In this directory, you will find the same image of yeast cells as you used
 % in homework 5. First preprocess the image any way you like - smoothing, edge detection, etc. 
